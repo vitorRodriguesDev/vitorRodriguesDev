@@ -1,8 +1,5 @@
 ## Oiiii Eu sou o Vitor Rodrgues 🖐️ !!
 
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorRodrgues&show_icons=true&theme=blue&count_private=true)
-
 <h3> 📌 &nbsp;Minhas Skills </h3>
 
 <div style="display: inline_block">
